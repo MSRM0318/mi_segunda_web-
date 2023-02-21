@@ -1,0 +1,15 @@
+h1{
+ color: peru;
+ font-family: 'Caveat', cursive;
+ text-align: center;
+}
+h2{
+    color: pink;
+    background-color: blueviolet;
+    font-family: 'Noto Sans Tagbanwa', sans-serif;
+text-align: center;
+}
+body{
+    background-color: bisque;
+    background-color: rgb(110, 110, 252);
+}
